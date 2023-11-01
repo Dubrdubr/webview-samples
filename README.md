@@ -1,4 +1,4 @@
-# Примеры заглушек
+# Samples
 
 - [Gambling](https://github.com/Dubrdubr/webview-samples/blob/main/README.md#gambling)
 - [Bettings](https://github.com/Dubrdubr/webview-samples/blob/main/README.md#betting)
