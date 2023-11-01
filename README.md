@@ -4,6 +4,7 @@
 - Betting
 
 
+## Gambling
 
 https://github.com/Dubrdubr/webview-samples/assets/36497899/218cdb75-5d03-4025-be95-c1e6451c96e0
 
