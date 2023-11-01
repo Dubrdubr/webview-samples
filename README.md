@@ -1,7 +1,7 @@
 # Примеры заглушек
 
 - [Gambling](https://github.com/Dubrdubr/webview-samples/blob/main/README.md#gambling)
-- Betting
+- [Bettings](https://github.com/Dubrdubr/webview-samples/blob/main/README.md#betting)
 
 
 ## Gambling
