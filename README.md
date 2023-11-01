@@ -12,6 +12,8 @@ https://github.com/Dubrdubr/webview-samples/assets/36497899/3a398f38-16f8-4b8b-b
 
 https://github.com/Dubrdubr/webview-samples/assets/36497899/996d6686-84a2-4a58-9ef3-83baef8266d7
 
+## Betting
+
 https://github.com/Dubrdubr/webview-samples/assets/36497899/2c076706-e01c-470f-8731-54de1497478a
 
 
